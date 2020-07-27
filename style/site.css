@@ -1,0 +1,48 @@
+/* .card{
+    border:none !important;
+}
+.jumbotron{
+    background-color: steelblue;
+}
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #CC3333;
+}
+.page2{
+    width: 1400px;
+    margin: 0 auto;
+    background-color:gray;
+}
+.container1{
+    align:center;
+}
+.size{
+    height:3px;
+} */
+.jumbotron{
+    background-color: #3BAABE;
+}
+.press1{
+    background-color: yellow;
+}
+
+.card-header {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0px;
+    background-color: rgb(105, 31, 31);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+    align:center;
+  }
+  .heading{
+     text-align: left;
+  }
+  .form-control{
+      background-image: none !important;
+  }
+  .mainn{
+      width:60%;
+      height:490px;
+  }
+ .card{
+     align:center;
+ }
